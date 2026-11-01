@@ -19,3 +19,6 @@ body { background: #f4f6f8; }
 .badge.resolved { background: #2e7d32; }
 table { width: 100%; background: white; border-collapse: collapse; }
 th, td { padding: 12px; border-bottom: 1px solid #ddd; text-align: left; }
+.photos { display: flex; gap: 16px; margin-top: 14px; flex-wrap: wrap; }
+.photos img { width: 100%; max-width: 300px; border-radius: 8px; }
+.muted { color: #777; font-size: 14px; }
