@@ -30,7 +30,7 @@ SECRET_KEY = 'django-insecure-7snhcrr487l%0olrl)6pc!=-%h7ai!^y_q^@g!ks#7731=hds4
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', '.trycloudflare.com']
 
 
 # Application definition
