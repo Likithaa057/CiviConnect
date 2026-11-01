@@ -1,0 +1,6 @@
+backend/
+**/_pycache_/
+*.pyc
+integrations/maps/storage/locations.json
+helpline_requests.json
+integrations/storage/locations.json
